@@ -1,0 +1,2 @@
+exchange,shortName,industryID,industryIDv2,industry,industryEn,establishedYear,noEmployees,noShareholders,foreignPercent,website,stockRating,deltaInWeek,deltaInMonth,deltaInYear,outstandingShare,issueShare,companyType,ticker
+HOSE,TPBank,289,8355,Ngân hàng,Banks,2008,4985,15209,0.3,http://www.tpb.vn,4.3,-0.008,0.017,-0.098,1581.8,1581.8,NH,TPB

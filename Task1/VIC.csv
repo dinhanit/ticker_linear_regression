@@ -1,0 +1,2 @@
+exchange,shortName,industryID,industryIDv2,industry,industryEn,establishedYear,noEmployees,noShareholders,foreignPercent,website,stockRating,deltaInWeek,deltaInMonth,deltaInYear,outstandingShare,issueShare,companyType,ticker
+HOSE,VinGroup,336,8633,Bất động sản,Real Estate,2002,65325,32650,0.128,http://www.vingroup.net,3.3,0.015,0.005,-0.036,3813.9,3813.9,CT,VIC
